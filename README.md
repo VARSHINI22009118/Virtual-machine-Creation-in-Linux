@@ -62,10 +62,14 @@ vi /etc/hostname
 cat /etc/hostname
 ```
 
-### REG NUMBER: 212222100054
-### NAME: TEJUSVE KABEER F
+### REG NUMBER: 212222100059
+### NAME: VARSHINI S A
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/ceaa157f-0190-4c9c-9182-075c671acca2)
+
+
 ![exp1](https://github.com/user-attachments/assets/e4caa0fc-1577-401c-b1ba-f7814dde399f)
 
 ## RESULT
